@@ -1,5 +1,2 @@
-```python
-# ...existing code...
-    st.write("데이터 미리보기:")
-# ...existing code...
-```
+import streamlit as st
+import pandas as pd
